@@ -6,6 +6,6 @@ void main() {
 
 	printf("%s \n", output);
 
-	exit();
+	exitProgram();
 }
 

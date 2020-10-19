@@ -10,6 +10,6 @@
 
 char* write(char *);
 char* read();
-void exit();
+char* exitProgram();
 
 #endif

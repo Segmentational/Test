@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void exit() {
-	int _SIGNAL = 0;
+char* exitProgram() {
+	char _SIGNAL[100];
 
-	printf("Execute SIGKIL or Press [ENTER]");
+	printf("Type something to exit: ");
 
-	int _ = scanf("%i", &_SIGNAL);
+	scanf("%s", _SIGNAL);
+
+	return _SIGNAL;
 }
