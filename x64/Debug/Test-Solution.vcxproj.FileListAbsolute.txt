@@ -1,0 +1,2 @@
+C:\Users\marti\source\repos\Test\x64\Debug\Test-Solution.exe
+C:\Users\marti\source\repos\Test\x64\Debug\Test-Solution.pdb

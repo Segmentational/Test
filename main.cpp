@@ -1,4 +1,6 @@
 #include "Imports.h"
 
-void main() { printf("%s", write(read())); }
+void main() {
+	printf("%s", write(read()));
+}
 
