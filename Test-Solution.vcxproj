@@ -99,6 +99,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Exit.c" />
     <ClCompile Include="Write.c" />
     <ClCompile Include="Read.c" />
   </ItemGroup>

@@ -1,6 +1,11 @@
 #include "Imports.h"
 
 void main() {
-	printf("%s", write(read()));
+	char* input = read();
+	char* output = write(input);
+
+	printf("%s \n", output);
+
+	exit();
 }
 

@@ -1,2 +1,6 @@
 ﻿  main.cpp
-  Test-Solution.vcxproj -> C:\Users\marti\Source\Repos\Test\x64\Debug\Test-Solution.exe
+  Exit.c
+C:\Users\16122\Desktop\Test\Exit.c(4,13): warning C4026: function declared with formal parameter list
+C:\Users\16122\Desktop\Test\Exit.c(4,13): warning C4273: 'exit': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(52,48): message : see previous definition of 'exit'
+  Test-Solution.vcxproj -> C:\Users\16122\Desktop\Test\x64\Debug\Test-Solution.exe

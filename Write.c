@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 char* write(char * input) {
-	char* appension = "Null-Byte";
-	return strcat(input, appension);
+
+	char* _return = strcat(input, " + Null-Byte");
+
+	return input;
 }
